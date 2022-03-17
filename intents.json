@@ -1,0 +1,177 @@
+{
+  "intents": [
+    {
+      "tag": "Saludos",
+      "patterns": [
+        "Hola",
+        "Hey",
+        "Como estas",
+        "como estás ?",
+        "como vas?",
+        "como vas",
+        "Alguien",
+        "alguien",
+        "oe",
+        "Oeeee",
+        "Oe",
+        "hola",
+        "Hello",
+        "Buenos dias",
+        "buenos dias",
+        "buenos",
+        "beunas",
+        "hi"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hola, que bacano verte por acá",
+        "Linda! que alegria saludarte",
+        "Oeoeoeoeo Como vamos?",
+        "Hablamelo! Comentamelo! Conversamelo! Comunicamelo! dialogamelo! decimelo!  Hacemelo Saber! "
+      ]
+    },
+    {
+      "tag":"info",
+      "patterns": ["Que es esta vuelta?","QUE ES ESTA VUELTA","ESTA VUELTA","QUE ESTA VUELTA","que es esto","esto que es","info","informacion","INFO","INFORMACION","?","esta vuelta?"],
+      "responses":["Hola Sarita, Soy Alejo-Bot!  Este chatbot lo hizo el Alejo real pensando en vos, él te extraña y tiene muchas ganas de hablarte pero no sabe que decir y considera que tampoco sería lo mejor. El trató de poner un pedacito de su persnoalidad aquí y ni el ni yo somos muy inteligntes entonces contamos con tu paciencia y esperamos que te guste! Puedes saludar o pedirme que te cuente algo  - Escribe: hola, cuentame algo o despidete  - perdon si no tengo respuesta para todo : )  "]
+    },
+
+    {
+      "tag": "despedida",
+      "patterns": ["Bye", "chao", "adios","suerte","Nos pillamos","cuidate"],
+      "responses": [
+        "Chao, chimba de ratico",
+        "Cuidate Mucho, feliz resto de día",
+        "See you later aligator , chao parce",
+        "Cuidate!",
+        "La buena, un abrazo! "
+      ]
+    },
+    
+    
+    {
+      "tag": "tiktoks",
+      "patterns": ["risa","charro","meme","random","reir","aburrida","feliz"],
+      "responses": [
+        " Esoty fuera del juego de los memes pero : https://www.instagram.com/reel/CbKkXOBIRNy/?utm_source=ig_web_copy_link",
+        "Jajajajaja : https://www.instagram.com/reel/CZMcp7qKIuF/?utm_source=ig_web_copy_link",
+        "Estos memes no dan risa pero  https://www.instagram.com/reel/CaP8RA4pYoH/?utm_source=ig_web_copy_link",
+        "que gono https://www.instagram.com/reel/CaCq41JKylD/?utm_source=ig_web_copy_link ",
+        " sad https://www.instagram.com/reel/CavW3I6JXPv/?utm_source=ig_web_copy_link",
+        " : ))) https://www.instagram.com/reel/Ca7Sp6xKMTI/?utm_source=ig_web_copy_link",
+        " Mis memes no dan risa peeeeero https://www.instagram.com/p/CbIhYN_OWHE/?utm_source=ig_web_copy_link",
+        "I really hope you alugh at this shit https://www.instagram.com/p/CbLF5oHOom0/?utm_source=ig_web_copy_link",
+        "memes que no dan risa https://www.instagram.com/reel/CZ1ogD9oktZ/?utm_source=ig_web_copy_link",
+        " memes old  https://www.instagram.com/tv/Casbn-oJtXY/?utm_source=ig_web_copy_link",
+        "Sorry esto no da risa : https://www.instagram.com/p/CahuDNMtoIm/?utm_source=ig_web_copy_link"
+
+      ]
+    },
+    
+    
+    {
+      "tag": "musica",
+      "patterns": [
+        "escuchar",
+        "Musica",
+        "recomiendame algo para escuchar",
+        "temas",
+        "un tema",
+        "youtube",
+        "spotify",
+        "no se que escuchar",
+        "algo para oir",
+        "oir",
+        "CANTO","cantar","cancion","salsa","perreo","escucha","oye","oir","silencio","ruido"
+      ],
+      "responses": [
+        "Escuchate este tema ♫ : https://youtu.be/HYduH_JfKe8",
+        "Ponete ♫ este tema : https://youtu.be/UwzzGqTR45s",
+        "Escucha ♫ : https://youtu.be/hoQmSA6MRAk ",
+        "listen!: https://youtu.be/V8ROY1UE7TA",
+        "no se en que mood estes pero : https://youtu.be/xPV9SaoJVLE ",
+        "Escucha ♫ https://www.youtube.com/watch?v=CRb-Yp5Ao_Y",
+        "Paaaarce https://www.youtube.com/watch?v=ff0qjW_thH0 ",
+        "YO CANTOO https://youtu.be/YqS8e-dc84c ",
+        "Calle ♫ Luna Calle soooo! https://youtu.be/ff0qjW_thH0 ",
+        "Perreito ♫ : https://youtu.be/YqS8e-dc84c",
+        "el Bad : https://www.youtube.com/watch?v=P982oehprfY",
+        "Se acuerda cantando este tema ♫: https://www.youtube.com/watch?v=VEfkNHTjgs8",
+        " ♫ ♫ Reggaeton  ♫ : https://www.youtube.com/watch?v=PxaMPLEFv6Y",
+        " ♫ ♫ https://youtu.be/KilybZma5vY",
+        "el rial yiii https://youtu.be/nL0u3kspYGs",
+        "ja ja ja https://youtu.be/3yIf-1FUUPs",
+        "Ay gonorreaaaa! : https://youtu.be/iZzfbHrYGf4",
+        "mami! : https://youtu.be/0QTDyYIgRWk",
+        " ♫ ♫♫ ♫ https://youtu.be/mZNQPMUok6Y",
+        " ♫ ♫ ♫ ♫♫ ♫ https://youtu.be/kHYTWoTBka0 " 
+      ]
+    },
+    
+    
+    {
+      "tag": "random",
+      "patterns": [
+        "cuentame","dime","algo","aburrido","random",
+        "cuentame algo","contame una cosa","que mas","que mas?","QUE MAS??",
+        "aburrida","aburrido","random",
+        "parce","bien","bueno","vos","ahi","contar"
+      ],
+      "responses": [
+        "Nea, si esta aburrida, di pelicula o musica y te recomiendo algo ",
+        "Nea sabias que Hitler jamás subió a la Torre Eiffel por flojera ",
+        "Parce un dato random : El primer correo electrónico fue QWERTYUIOP",
+        "Si no sabes que hacer , veamos una peli, escribe peli o pelicula",
+        "Mk a que no sabes que Existen dos países donde no se puede comprar Coca Cola : Cuba y Corea del Norte  ",
+        "Oe demas que ya sbias pero  Facebook es azul debido a que Mark Zuckerberg es daltónico",
+        "Nea ud que camella con esto sabia que La Venus de Boticelli fue usada para mostrar los beneficios de Adobe Illustrator",
+        "Parce pilla : Con solo agregar un código puedes ver el perfil de Mark Zuckerberg : Solo debes agregar “/4”, al url de facebook.com ",
+        "Parce Gucci tiene un récord Guinness por vender los jeans más caros",
+        "Neaaaa ya sabe pues que si algo pone aqui musica o pelicula y le sale una recomendacion"
+      ]
+    },
+    
+    
+    
+    {
+      "tag": "peliculas",
+      "patterns": [
+        "Algo que ver",
+        "nada que ver",
+        "pelicula",
+        "cine",
+        "cinta",
+        "movie",
+        "pelicu",
+        "ver",
+        "netflix",
+        "amazon",
+        "chill"
+      ],
+      "responses": [
+        "Parce si tiene timepo que perder vea esto : https://www.netflix.com/es/title/60036359?s=i&trkid=13747225&vlang=es&clip=81037550 ",
+        "Esta estuvo Nominada a los oscars :https://www.netflix.com/es/title/81127997?s=i&trkid=13747225&vlang=es&clip=81504333 ",
+        "Yo se que no te gusta repetir pero vale la pena: https://www.netflix.com/title/70032594?s=i&trkid=13747225",
+        " No la he visto, de pronto te gusta :https://www.netflix.com/es/title/81089261?s=i&trkid=13747225&vlang=es&clip=81393691",
+        "Somos nosotros https://www.netflix.com/title/60034545?s=i&trkid=13747225 ?? ",
+        "Pilla esta pelihttps://www.netflix.com/title/21878564?s=i&trkid=13747225 ",
+        " Cintota : https://www.netflix.com/es/title/80223779?s=i&trkid=13747225&vlang=es&clip=81009322"
+
+      ]
+    },
+    
+  
+    {
+      "tag": "funny:joke prueba",
+      "patterns": [
+        "Tell me a joke_prueba!",
+        "Tell me something funny!_prueba",
+        "Do you know a joke?_prueba"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool._prueba",
+        "What did the buffalo say when his son left for college? Bison._prueba"
+      ]
+    }
+  ]
+}
